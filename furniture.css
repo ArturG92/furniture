@@ -1,0 +1,21 @@
+body{margin:auto;}
+header{width: 80%;
+	display: flex;
+margin: auto;}
+.head p,ul{    margin-bottom: 10px;}
+.head h1{margin: 0;}
+.head h1,p{font-family:  "Lobster", Sans-serif;}
+.head{font-size: 3vw;
+	margin: auto;  
+	display: inline-flex;
+    align-items: baseline;}
+.head ul{padding: 0;
+	display: flex;
+    list-style-type: none;}
+.head ul li{margin-left: 3vw;}
+button:hover {color: black;}
+button{color: grey; 
+	font-size: 2vw;
+	background: transparent;
+	border: transparent;}
+img{width: 100%;}
